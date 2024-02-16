@@ -223,12 +223,20 @@ header {
 } */
 
 .landing-page-heading h1 {
-  font-size: 49px;
-  font-weight: 700;
-  letter-spacing: 3px;
+  font-size: 46px;
+  font-weight: 400;
+  letter-spacing: 2px;
   position: relative;
-  margin-bottom: 80px;
+  margin-bottom: 50px;
   text-align: center;
+}
+
+
+
+.landing-page-heading-main {
+  font-size: 140px !important;
+  font-weight: 700 !important;
+  letter-spacing: 3px !important;
 }
 
 .landing-page-heading-main {
